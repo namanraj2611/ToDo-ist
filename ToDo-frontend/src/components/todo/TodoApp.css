@@ -1,0 +1,26 @@
+label, input, button{
+    margin: 20px;
+    padding: 5px;
+}
+
+.SuccessMessage{
+    color: green;
+}
+
+.ErrorMessage{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: strong;
+}
+
+table, thead, td{
+    border: 1px solcid;
+
+}
+
+footer{
+    bottom: 0;
+    position: absolute;
+    width: 90%;
+    height: 40px;
+}
